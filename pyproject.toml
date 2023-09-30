@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "timer_bar"
-version = "0.0.7"
+version = "0.0.8"
 authors = [
   { name="Jeff Griffiths", email="jkgriffiths93@gmail.com" },
 ]

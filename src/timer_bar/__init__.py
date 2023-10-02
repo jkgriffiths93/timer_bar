@@ -1,1 +1,1 @@
-from main import TimerBar
+from .main import TimerBar

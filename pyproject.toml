@@ -4,11 +4,11 @@ build-backend = "hatchling.build"
 
 [project]
 name = "timer_bar"
-version = "0.0.12"
+version = "1.0.1"
 authors = [
   { name="Jeff Griffiths", email="jkgriffiths93@gmail.com" },
 ]
-description = "Simple graphic to show progress of a process"
+description = "Simple console graphic to show progress of a process"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
